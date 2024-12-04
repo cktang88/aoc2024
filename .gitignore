@@ -1,0 +1,4 @@
+# ignore puzzle files and input files
+*/input
+*/puzzle.md
+*/test_input
