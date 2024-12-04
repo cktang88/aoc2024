@@ -1,5 +1,7 @@
 Advent of Code 2024
 
+Puzzle inputs downloaded with [aoc-cli](https://github.com/scarvalhojr/aoc-cli), stored one folder per day.
+
 All done with AI (Codeium windsurf editor)
 
 prompt used:
